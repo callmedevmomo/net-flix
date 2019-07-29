@@ -19,4 +19,10 @@ Learning React and ES6 by building a Movie Discovery App.
 - [x] Airing Today (TV)
 - [x] TV Show Detail
 - [x] Movie Detail
-- [ ] Search (Movie, TV)
+- [x] Search (Movie, TV)
+
+## Container Structure
+- [x] Home Container
+- [x] TV Container
+- [x] Search Container
+- [x] Detail Container
