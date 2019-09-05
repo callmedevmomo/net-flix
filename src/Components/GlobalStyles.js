@@ -20,5 +20,6 @@ body{
     color:white;
     padding-top:50px;
     margin-left:10px;
+    height:100%;
 }`;
 export default globalStyles;
