@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.d8fdb519.chunk.js",
-    "main.js.map": "/static/js/main.d8fdb519.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.f4973b3e.chunk.js": "/static/js/2.f4973b3e.chunk.js",
-    "static/js/2.f4973b3e.chunk.js.map": "/static/js/2.f4973b3e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.40bdcb735fa950ee98b8742a9336b8ba.js": "/precache-manifest.40bdcb735fa950ee98b8742a9336b8ba.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/noPosterSmall.png": "/static/media/noPosterSmall.87a0eb6a.png"
+    "main.js": "/net-flix/static/js/main.d8fdb519.chunk.js",
+    "main.js.map": "/net-flix/static/js/main.d8fdb519.chunk.js.map",
+    "runtime~main.js": "/net-flix/static/js/runtime~main.fa30e346.js",
+    "runtime~main.js.map": "/net-flix/static/js/runtime~main.fa30e346.js.map",
+    "static/js/2.fe755c54.chunk.js": "/net-flix/static/js/2.fe755c54.chunk.js",
+    "static/js/2.fe755c54.chunk.js.map": "/net-flix/static/js/2.fe755c54.chunk.js.map",
+    "index.html": "/net-flix/index.html",
+    "precache-manifest.91febe53018a65850a1899b82b01e5a3.js": "/net-flix/precache-manifest.91febe53018a65850a1899b82b01e5a3.js",
+    "service-worker.js": "/net-flix/service-worker.js",
+    "static/media/noPosterSmall.png": "/net-flix/static/media/noPosterSmall.87a0eb6a.png"
   }
 }
