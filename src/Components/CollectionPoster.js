@@ -61,7 +61,7 @@ const CollectionPoster = ({
   <a
     href={
       isMovie
-        ? `/movie/${id}`
+        ? `https://callmedevmomo.github.io/net-flix/movie/${id}`
         : imageUrl
         ? `https://image.tmdb.org/t/p/original${imageUrl}`
         : null
