@@ -89,9 +89,9 @@ const CollectionPoster = ({
 );
 
 CollectionPoster.propTypes = {
-  id: PropTypes.number.isRequired,
+  id: PropTypes.number,
   imageUrl: PropTypes.string,
-  title: PropTypes.string.isRequired,
+  title: PropTypes.string,
   rating: PropTypes.number,
   year: PropTypes.string,
   isMovie: PropTypes.bool
