@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/net-flix/static/js/main.8744588f.chunk.js",
-    "main.js.map": "/net-flix/static/js/main.8744588f.chunk.js.map",
+    "main.js": "/net-flix/static/js/main.4e1d946f.chunk.js",
+    "main.js.map": "/net-flix/static/js/main.4e1d946f.chunk.js.map",
     "runtime~main.js": "/net-flix/static/js/runtime~main.fa30e346.js",
     "runtime~main.js.map": "/net-flix/static/js/runtime~main.fa30e346.js.map",
     "static/js/2.59b0baa1.chunk.js": "/net-flix/static/js/2.59b0baa1.chunk.js",
     "static/js/2.59b0baa1.chunk.js.map": "/net-flix/static/js/2.59b0baa1.chunk.js.map",
     "index.html": "/net-flix/index.html",
-    "precache-manifest.490b7ae6c57e61ef89eaf009ae14c6ef.js": "/net-flix/precache-manifest.490b7ae6c57e61ef89eaf009ae14c6ef.js",
+    "precache-manifest.4851f457ffad0a61fc6d67b90b9de711.js": "/net-flix/precache-manifest.4851f457ffad0a61fc6d67b90b9de711.js",
     "service-worker.js": "/net-flix/service-worker.js",
     "static/media/noPosterSmall.png": "/net-flix/static/media/noPosterSmall.87a0eb6a.png"
   }
