@@ -34,3 +34,7 @@ Learning React and ES6 by building a Movie Discovery App.
 - [x] Collections Link
 - [x] /collections Route
 - [x] On TV Show, show seasons and creators
+
+
+# Preview : 
+Try it on [netlify] (https://gallant-brattain-ac0c94.netlify.com/#/)
