@@ -61,7 +61,7 @@ const CollectionPoster = ({
   <a
     href={
       isMovie
-        ? `https://callmedevmomo.github.io/net-flix/movie/${id}`
+        ? `https://gallant-brattain-ac0c94.netlify.com/#/movie/${id}`
         : imageUrl
         ? `https://image.tmdb.org/t/p/original${imageUrl}`
         : null
