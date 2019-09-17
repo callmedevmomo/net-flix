@@ -17,11 +17,7 @@ export default () => (
     <>
       <Header />
       <Switch>
-        <Route
-          path="https://callmedevmomo.github.io/net-flix/"
-          exact
-          component={Home}
-        />
+        <Route path="/" exact component={Home} />
         <Route path="/tv" exact component={TV} />
         {/* <Route path="/tv/momo" render={() => <h1>MOMO</h1>} /> */}
         <Route path="/search" component={Search} />
